@@ -1,3 +1,9 @@
+https://www.redhat.com/sysadmin/ansible-execution-environment-unconnected#:~:text=Ansible%20execution%20environments%20(EE)%20were,that%20help%20execute%20Ansible%20playbooks.
+
+
+https://access.redhat.com/documentation/en-us/reference_architectures/2021/html/deploying_ansible_automation_platform_2.1/config_controller
+
+
 # Terraform-Tutorial
 
 ![](https://github.com/easyawslearn/Terraform-Tutorial/workflows/terraform-tutorials-ci/badge.svg)
